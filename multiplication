@@ -1,0 +1,6 @@
+def multiply(a, b):
+    return a * b
+
+# Example usage
+if __name__ == "__main__":
+    print("Multiply 4 * 5:", multiply(4, 5))
